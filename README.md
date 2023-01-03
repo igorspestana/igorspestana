@@ -40,15 +40,18 @@ zap Fun fact: My first line of code was not "Hello World!"
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 ##
-
+  
 ### 🖥️ My DevSetup
+  
+<div align="center">
+
 <img src="https://img.shields.io/badge/Linux-555555.svg?&style=flat-square&logo=linux&logoColor=0078D6">
 <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C">
 <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC">
 <img src="https://img.shields.io/badge/Android Studio-555555.svg?&style=flat-square&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
-
-  <br>
+</div>
+  <br><br>
   
   <p align="center"><samp>
 Check out my repos and feel free to create a pull request to contribute to any of my repositories. ⬇️  
